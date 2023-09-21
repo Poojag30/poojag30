@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <em>
-    This is ME, Pooja Gundami, a <b>final year</b> undergraduate from  <b>Walchand Institute Of Technology, </b>, solapur</a>. <br>
+    This is ME, Pooja Gundami, a <b>BTech graduate </b>from <b>Walchand Institute Of Technology </b>solapur, </a> ready to innovate and create<br>
     
   </em> 
   
