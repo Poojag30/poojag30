@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href = "mailto: poojagundami@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pooja-gundami/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Pooja" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gundami30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@gundami30" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/gundami30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@gundami30" height="30" width="40" /></a>
 <a href="https://leetcode.com/gundami_p/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="gundami_p" height="30" width="40" /></a>
 
 </p>
