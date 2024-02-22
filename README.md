@@ -28,6 +28,13 @@
 <h3 align="left">Connect with me:  <br>
 <a href = "mailto: poojagundami@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pooja-gundami/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Pooja" height="30" width="40" /></a> 
-<a href = "https://poojag30.github.io/Personal_Portfolio/"><img align="center" src="https://simpleicons.org/icons/planet.svg" height="30" width="40" /></a> </h3>
+</h3>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojag30&show_icons=true&locale=en&layout=compact" alt="poojag30" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=poojag30&" alt="poojag30" />
