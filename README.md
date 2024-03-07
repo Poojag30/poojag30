@@ -8,7 +8,6 @@
   <p align="center">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif">
 </p>
-- 🌱 Currently learning ASP.Net
 <br>
 - 👨‍💻 Checkout my Portfolio <a href ="https://poojag30.github.io/Personal_Portfolio/">Pooja Gundami</a>
 <h3 align="left">Languages and Tools:</h3>
