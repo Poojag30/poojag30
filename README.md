@@ -3,12 +3,16 @@
 <p align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojag30&label=Profile%20views&color=0e75b6&style=flat" alt="poojag30" /> </p>
 
-<h1 align="center">Hi 👋, I'm Pooja Gundami</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pooja Gundami</h1>
 <h3 align="center">A Passionate <b>Full Stack Developer  💻 </b> From India</h3>
   <p align="center">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif">
 </p>
 <br>
+ :woman_technologist: About Me :
+
+- 🔆 Aspiring Software Developer  </br>
+- 📫 How to reach me    <a href ="poojagundami@gmail.com">PoojaGundami@gmail.com</a>  </br>
 - 👨‍💻 Checkout my Portfolio <a href ="https://poojag30.github.io/Personal_Portfolio/">Pooja Gundami</a>
 <h3 align="left">Languages and Tools:</h3>
 
@@ -20,7 +24,6 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <br>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
 </p>
@@ -30,10 +33,7 @@
 </h3>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojag30&show_icons=true&locale=en&layout=compact" alt="poojag30" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojag30&show_icons=true&locale=en" alt="poojag30" /></p>
+<br> 
 <br>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=poojag30&" alt="poojag30" />
