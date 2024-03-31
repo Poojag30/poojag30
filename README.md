@@ -9,7 +9,7 @@
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif">
 </p>
 <br>
- :woman_technologist: About Me :
+ <h3 align="left"> About Me :
 
 - 🔆 Aspiring Software Developer  </br>
 - 📫 How to reach me    <a href ="poojagundami@gmail.com">PoojaGundami@gmail.com</a>  </br>
