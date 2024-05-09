@@ -12,7 +12,7 @@
  <h3 align="left"> About Me :
 
 - 🔆 Aspiring Software Developer  </br>
-- 📫 How to reach me    <a href ="poojagundami@gmail.com">Poojagundami@gmail.com</a>  </br>
+- 📫 How to reach me    <a href ="poojagundami@gmail.com">poojagundami@gmail.com</a>  </br>
 - 👨‍💻 Checkout my Portfolio <a href ="https://poojag30.github.io/Personal_Portfolio/">Pooja Gundami</a>
 <h3 align="left">Languages and Tools:</h3>
 
