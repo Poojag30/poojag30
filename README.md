@@ -3,7 +3,7 @@
 <p align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojag30&label=Profile%20views&color=0e75b6&style=flat" alt="poojag30" /> </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pooja Gundami  </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pooja Gundami.  </h1>
 <h3 align="center">A Passionate <b>Full Stack Developer  💻 </b> From India</h3>
   <p align="center">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif">
